@@ -1,10 +1,11 @@
-#Indecision App  
-####Put your life in the hands of a computer  
+# Indecision App
+A simple React app built using Webkit, css-loaders, Babel and Sass.
 
-
-
-![app-image]: (./public/images/ss-app.png "App")
+- Add an item
+- Add another
+- Click the 'What should I do?' button
+- Let the programme decide what you do!
 
 ###React / Webkit / Sass
 
-A simple React app built using Webkit, css-loaders, Babel and Sass.
+ ![Screenshot](./public/images/ss-app.png) 
