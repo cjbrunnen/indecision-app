@@ -8,8 +8,8 @@ A simple React app built using Webkit, css-loaders, Babel and Sass.
 
 ### React / Webkit / Sass
 
- ![Screenshot](./public/images/ss-app.png) 
+ ![Screenshot](./public/images/ss-app.png =100x20) 
 
  ![ScreenshotMobile](./public/images/ss-mobile.png)
 
- !{ScreenshotModal}(./public/images/ss-modal.png)
+ ![ScreenshotModal](./public/images/ss-modal.png)
