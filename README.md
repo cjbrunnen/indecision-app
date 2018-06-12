@@ -6,6 +6,10 @@ A simple React app built using Webkit, css-loaders, Babel and Sass.
 - Click the 'What should I do?' button
 - Let the programme decide what you do!
 
-###React / Webkit / Sass
+### React / Webkit / Sass
 
  ![Screenshot](./public/images/ss-app.png) 
+
+ ![ScreenshotMobile](./public/images/ss-mobile.png)
+
+ !{ScreenshotModal}(./public/images/ss-modal.png)
